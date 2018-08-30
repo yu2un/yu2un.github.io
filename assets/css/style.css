@@ -24,7 +24,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
     background-color: #24292e;
-    background-image:url(/images/star-bg.svg),linear-gradient(#191c20, #24292e 15%);
+    background-image:url(assets/images/star-bg.svg),linear-gradient(#191c20, #24292e 15%);
     color:#fff;
 }
 ol, ul {
